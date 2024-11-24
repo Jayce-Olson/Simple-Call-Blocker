@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here if needed -->
+    </style>
+    <!-- Custom Switch Style -->
+    <style name="CustomSwitch" parent="Widget.AppCompat.CompoundButton.Switch">
+
+        <!-- Padding around the thumb -->
+        <item name="android:thumbTextPadding">10dp</item>
+        <!-- Padding around the switch -->
+        <item name="android:padding">8dp</item>
+        <!-- Text when the switch is off -->
+        <item name="android:textOff">OFF</item>
+        <!-- Text when the switch is on -->
+        <item name="android:textOn">ON</item>
+        <!-- Color of the switch text -->
+        <item name="android:textColor">@color/switch_text_color</item>
+        <!-- Shadow color for the thumb -->
+        <item name="android:thumbTint">@color/switch_thumb_shadow</item>
+    </style>
+</resources>

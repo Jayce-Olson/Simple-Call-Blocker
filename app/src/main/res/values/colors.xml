@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color when the switch is on -->
+    <color name="switch_track_on">#4CAF50</color> <!-- Green -->
+    <!-- Color when the switch is off -->
+    <color name="switch_track_off">#FF5722</color> <!-- Deep Orange -->
+    <!-- Thumb color when the switch is on -->
+    <color name="switch_thumb_on">#FFFFFF</color> <!-- White -->
+    <!-- Thumb color when the switch is off -->
+    <color name="switch_thumb_off">#000000</color> <!-- Black -->
+    <!-- Text color for the switch -->
+    <color name="switch_text_color">#FFFFFF</color> <!-- White -->
+    <!-- Shadow color -->
+    <color name="switch_thumb_shadow">#444444</color> <!-- Dark Gray -->
+</resources>
